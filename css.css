@@ -4,12 +4,14 @@
 body{
 
     margin: 0;
+    width: 650px;
+
 }
 
 /*logo */
 
 header{
-    width: 527px;
+ 
     padding-top: 32px;
     padding-bottom: 32px;
     padding-left: 80px;
