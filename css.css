@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 
-body{
+.body{
 
     margin: 0;
     width: 650px;
@@ -10,7 +10,7 @@ body{
 
 /*logo */
 
-header{
+.header{
  
     padding-top: 32px;
     padding-bottom: 32px;
@@ -78,12 +78,15 @@ section{
     justify-content: flex-end;
     text-align: right;
     font-family: Arial;
-    line-height: 25px;
+    line-height: 35px;
 }
 
 .phone2 {
     margin-top: 0px;
     right: 0px;
+}
+.number{
+    font-size:25px;
 }
 
 .row {
