@@ -36,32 +36,18 @@ main{
     position: relative;
 }
 
+
+.group2 {
+
+    text-align: right;
+    margin: -50px 0 0 0;
+}
+
 .wishes{
     font-family: Arial;
     margin-top: 51px;
-    line-height: 33px;
+    line-height: 28px;
 }
-
-.group1{
-    position: relative;
-    width: 304px;
-    height: 300px;
-    top: 56px;
-    right: 0;
-    position: absolute;
-    
-}
-
-.group2{
-    position: relative;
-    width: 390px;
-    height: 156px;
-    bottom: 56px;
-    right: 0px;
-    position: absolute;
-    
-}
-
 
 
 /*logo,phone */
@@ -98,6 +84,10 @@ section{
 .phone2 {
     margin-top: 0px;
     right: 0px;
+}
+
+.row {
+    display: flex;
 }
 
 ul{
